@@ -63,4 +63,5 @@
 * [jerrykuku/luci-app-jd-dailybonus](https://github.com/jerrykuku/luci-app-jd-dailybonus)
 
 
-
+pt_pin=chocobocom; pt_token=tkby3z0z;
+pt_pin=%E5%8A%A0%E8%8F%B2%E7%8C%ABxm; pt_token=1wr9md55;
